@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38.518" height="47.653" viewBox="0 0 38.518 47.653">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_42638" data-name="長方形 42638" width="38.327" height="47.256" fill="none" stroke="#fff" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="グループ_48070" data-name="グループ 48070" transform="translate(0.095 0.302)">
+    <path id="パス_65533" data-name="パス 65533" d="M20.115,11.394l-2.543,2.777-2.623,0L12.41,11.394" transform="translate(2.901 2.664)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="グループ_48054" data-name="グループ 48054" transform="translate(0 0)">
+      <g id="グループ_48068" data-name="グループ 48068">
+        <rect id="長方形_42635" data-name="長方形 42635" width="6.427" height="13.375" transform="matrix(0.738, -0.675, 0.675, 0.738, 5.394, 4.744)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <rect id="長方形_42636" data-name="長方形 42636" width="13.375" height="6.427" transform="matrix(0.675, -0.738, 0.738, 0.675, 19.161, 10.274)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <path id="パス_65534" data-name="パス 65534" d="M32.516,4.186h5.33V45.873H.328V4.186H5.673" transform="translate(0.077 0.979)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+    <line id="線_84" data-name="線 84" x1="7.892" transform="translate(15.124 5.859)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="グループ_48056" data-name="グループ 48056" transform="translate(0 0)">
+      <g id="グループ_48055" data-name="グループ 48055" clip-path="url(#clip-path)">
+        <line id="線_85" data-name="線 85" x2="16.674" transform="translate(10.826 0.84)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+    <path id="パス_65535" data-name="パス 65535" d="M17.2,14.923H15.329L12.41,37.034l3.852,4.155,3.853-4.155Z" transform="translate(2.901 3.489)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
